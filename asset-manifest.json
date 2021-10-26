@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AGT/static/css/main.4ae773b0.chunk.css",
+    "main.js": "/AGT/static/js/main.7191f9e0.chunk.js",
+    "main.js.map": "/AGT/static/js/main.7191f9e0.chunk.js.map",
+    "runtime-main.js": "/AGT/static/js/runtime-main.fd16e871.js",
+    "runtime-main.js.map": "/AGT/static/js/runtime-main.fd16e871.js.map",
+    "static/js/2.dd0b2fb1.chunk.js": "/AGT/static/js/2.dd0b2fb1.chunk.js",
+    "static/js/2.dd0b2fb1.chunk.js.map": "/AGT/static/js/2.dd0b2fb1.chunk.js.map",
+    "index.html": "/AGT/index.html",
+    "static/css/main.4ae773b0.chunk.css.map": "/AGT/static/css/main.4ae773b0.chunk.css.map",
+    "static/js/2.dd0b2fb1.chunk.js.LICENSE.txt": "/AGT/static/js/2.dd0b2fb1.chunk.js.LICENSE.txt",
+    "static/media/AgtLOGO.0110d2f9.png": "/AGT/static/media/AgtLOGO.0110d2f9.png",
+    "static/media/ComENg.css": "/AGT/static/media/Compimg.0b2dfdb7.png",
+    "static/media/Ronaljonesbanner.52fceff3.png": "/AGT/static/media/Ronaljonesbanner.52fceff3.png",
+    "static/media/SartakKarmaBanner.49fd6a86.png": "/AGT/static/media/SartakKarmaBanner.49fd6a86.png",
+    "static/media/SharaWestbanner.be989436.png": "/AGT/static/media/SharaWestbanner.be989436.png",
+    "static/media/loginSignUp.39032b05.png": "/AGT/static/media/loginSignUp.39032b05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd16e871.js",
+    "static/js/2.dd0b2fb1.chunk.js",
+    "static/css/main.4ae773b0.chunk.css",
+    "static/js/main.7191f9e0.chunk.js"
+  ]
+}
